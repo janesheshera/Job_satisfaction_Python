@@ -11,4 +11,4 @@
 9. department - отдел, в котором работает сотрудник <br>
 10. salary - относительный уровень зарплаты <br>
 <br>
-<img src="https://user-images.githubusercontent.com/63310859/213919015-86edf4e8-4a73-49d0-b2f6-297ea9edf450.jpg" height="250"/>
+<img src="https://user-images.githubusercontent.com/63310859/213919213-ff67d316-35ac-468a-a7ec-cc6d62259d59.jpg" height="250"/>
