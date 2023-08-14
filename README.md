@@ -12,3 +12,5 @@
 10. salary - относительный уровень зарплаты <br>
 <br>
 <img src="https://user-images.githubusercontent.com/63310859/213919213-ff67d316-35ac-468a-a7ec-cc6d62259d59.jpg" height="250"/>
+
+По результатам анализа построен <a href="https://datalens.yandex.ru/762f6ry56m9gw-udovletvorennost-sotrudnikami-rabotoy-priznaki-uvolnen">дашборд</a>
