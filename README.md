@@ -14,4 +14,7 @@
 <img src="https://user-images.githubusercontent.com/63310859/213919213-ff67d316-35ac-468a-a7ec-cc6d62259d59.jpg" height="250"/>
 
 <a href="https://docs.google.com/document/d/1_z0sNM1jI5d9XAnMmxlPpkdzZhtOGSlYeajZi6fdkZA/edit?usp=sharing"> :page_with_curl: Подробное описание проведенного анализа удовлетворенности сотрудниками работой </a><br>
+<br>
 По результатам анализа построен <a href="https://datalens.yandex.ru/762f6ry56m9gw-udovletvorennost-sotrudnikami-rabotoy-priznaki-uvolnen"> дашборд в DataLens </a><br>
+<br>
+<h6>*все ссылки открываются в текущем окне</h6>
