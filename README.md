@@ -13,7 +13,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/63310859/213919213-ff67d316-35ac-468a-a7ec-cc6d62259d59.jpg" height="250"/>
 
-<a href="https://docs.google.com/document/d/1_z0sNM1jI5d9XAnMmxlPpkdzZhtOGSlYeajZi6fdkZA/edit?usp=sharing"> :page_with_curl: Подробное описание проведенного анализа удовлетворенности сотрудниками работой </a><br>
+<a href="https://docs.google.com/document/d/1_z0sNM1jI5d9XAnMmxlPpkdzZhtOGSlYeajZi6fdkZA/edit?usp=sharing"> :bangbang: Подробное описание проведенного анализа удовлетворенности сотрудниками работой :page_with_curl: </a><br>
 
 В ходе анализа решаются следующие задачи:<br>
 1. Кластеризация сотрудников (метод k-средних). <br>
