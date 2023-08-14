@@ -22,5 +22,5 @@
 <br>
 <a href="https://docs.google.com/document/d/1_z0sNM1jI5d9XAnMmxlPpkdzZhtOGSlYeajZi6fdkZA/edit?usp=sharing"> :page_with_curl: Подробное описание проведенного анализа удовлетворенности сотрудниками работой </a><br>
 <br>
-:heart:
+:chart_with_upwards_trend:  :bar_chart: :chart_with_downwards_trend: 
 <h6>*все ссылки открываются в текущем окне</h6>
