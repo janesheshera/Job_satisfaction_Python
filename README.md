@@ -20,5 +20,5 @@
 2. Проверка гипотез (t-критерий Стьюдента, U-критерий Манна-Уитни).<br>
 3. Прогнозирование увольнения сотрудников (Дерево классификации, Случайный лес).<br>
 <br>
-По результатам анализа построен <a href="https://datalens.yandex.ru/762f6ry56m9gw-udovletvorennost-sotrudnikami-rabotoy-priznaki-uvolnen"> дашборд в DataLens :bar_chart: </a><br>
+По результатам анализа построен <a href="https://datalens.yandex.ru/762f6ry56m9gw-udovletvorennost-sotrudnikami-rabotoy-priznaki-uvolnen"> дашборд в DataLens :bar_chart: </a> (необходимо войти в аккаунт) <br>
 <h6>*все ссылки открываются в текущем окне</h6>
