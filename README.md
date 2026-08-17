@@ -27,4 +27,7 @@
 - Сделаны выводы и даны рекомендации. <br>
 <br>
 Реализован <a href="https://datalens.yandex.ru/762f6ry56m9gw-udovletvorennost-sotrudnikami-rabotoy-priznaki-uvolnen"> дашборд в DataLens :bar_chart: </a> (необходимо войти в аккаунт) <br>
+<br>
+СТЕК: Python (Pandas, Numpy, SciPy, Sklearn, Statistics, Matplotlib, Seaborn, ML: k-means, Decision Tree Classifier, Random Forest), DataLens<br>
+<br>
 <h6>*все ссылки открываются в текущем окне</h6>
